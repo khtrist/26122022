@@ -1,0 +1,14 @@
+D:\Visual Studi Code Academy Lessons or\test2\obj\Debug\netcoreapp3.1\test2.csproj.AssemblyReference.cache
+D:\Visual Studi Code Academy Lessons or\test2\obj\Debug\netcoreapp3.1\test2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studi Code Academy Lessons or\test2\obj\Debug\netcoreapp3.1\test2.AssemblyInfoInputs.cache
+D:\Visual Studi Code Academy Lessons or\test2\obj\Debug\netcoreapp3.1\test2.AssemblyInfo.cs
+D:\Visual Studi Code Academy Lessons or\test2\obj\Debug\netcoreapp3.1\test2.csproj.CoreCompileInputs.cache
+D:\Visual Studi Code Academy Lessons or\test2\bin\Debug\netcoreapp3.1\test2.exe
+D:\Visual Studi Code Academy Lessons or\test2\bin\Debug\netcoreapp3.1\test2.deps.json
+D:\Visual Studi Code Academy Lessons or\test2\bin\Debug\netcoreapp3.1\test2.runtimeconfig.json
+D:\Visual Studi Code Academy Lessons or\test2\bin\Debug\netcoreapp3.1\test2.runtimeconfig.dev.json
+D:\Visual Studi Code Academy Lessons or\test2\bin\Debug\netcoreapp3.1\test2.dll
+D:\Visual Studi Code Academy Lessons or\test2\bin\Debug\netcoreapp3.1\test2.pdb
+D:\Visual Studi Code Academy Lessons or\test2\obj\Debug\netcoreapp3.1\test2.dll
+D:\Visual Studi Code Academy Lessons or\test2\obj\Debug\netcoreapp3.1\test2.pdb
+D:\Visual Studi Code Academy Lessons or\test2\obj\Debug\netcoreapp3.1\test2.genruntimeconfig.cache
